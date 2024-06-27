@@ -1,4 +1,4 @@
-![Cover Photo](https://media.licdn.com/dms/image/D5616AQHHAnZQmBMCAg/profile-displaybackgroundimage-shrink_350_1400/0/1708763003069?e=1719446400&v=beta&t=TPQ6vrnWETt4HA4X3R7ryfiFOIz1vSUr735ea8ydCkM)
+![Cover Photo](https://media.licdn.com/dms/image/D5616AQHHAnZQmBMCAg/profile-displaybackgroundimage-shrink_350_1400/0/1708763003069?e=1724889600&v=beta&t=cVyd95zYMEe_ovgvhQwlR6RyEzEdoNWnlGQWO_jK8LQ)
 
 <h1 align="center">Hi 👋, I'm SHAHRIAR FARABI</h1>
 <h3 align="center">A Software Quality Assurance (SQA) Engineer from Bangladesh</h3>
